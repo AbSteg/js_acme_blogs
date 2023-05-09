@@ -4,6 +4,8 @@
 
 **Start by clicking the Remix on Glitch button above.**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13c848e3-64c5-40fb-9f8f-3b63068dd68a/deploy-status)](https://app.netlify.com/sites/lucent-semolina-c0a749/deploys)
+
 _Once you are working with your own copy of the project on Glitch..._
 
 **Follow the directions available in Blackboard** 
